@@ -1,0 +1,41 @@
+{
+  "name": "finalgraphql",
+  "version": "3.0.1",
+  "description": "Clayton-restaurant-demo1",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run debug",
+    "build": "cd client && npm run build && cd .. && mv client/build ./public",
+    "server": "nodemon --quiet server",
+    "client": "npm start --prefix client",
+    "dev": "concurrently \"npm run server\" \"npm run client\""
+  },
+  "author": "Justin McAleer",
+  "license": "MIT",
+  "keywords": [],
+  "devDependencies": {
+    "concurrently": "^8.2.2",
+    "nodemon": "^3.0.3"
+  },
+  "dependencies": {
+    "@apollo/server": "^4.10.0",
+    "@fortawesome/react-fontawesome": "^0.2.0",
+    "@graphql-tools/merge": "^9.0.1",
+    "bcrypt": "^5.1.1",
+    "config": "^3.3.10",
+    "dotenv": "^16.4.1",
+    "express-fileupload": "^1.4.3",
+    "glob": "^10.3.10",
+    "graphql": "^16.8.1",
+    "graphql-tag": "^2.12.6",
+    "graphql-tools": "^9.0.0",
+    "helmet": "^7.1.0",
+    "joi": "^17.12.1",
+    "joi-objectid": "^4.0.2",
+    "jsonwebtoken": "^9.0.2",
+    "lodash": "^4.17.21",
+    "mongoose": "^8.1.1",
+    "morgan": "^1.10.0",
+    "react-scripts": "^5.0.1"
+  }
+}
