@@ -1,0 +1,6 @@
+{
+    "appPrivateKey": "APP_PRIVATE_KEY",
+    "db": {
+        "connectionString": "DB_CONNECTION_STRING"
+    }
+}
