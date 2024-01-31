@@ -7,7 +7,7 @@ export default defineConfig({
   plugins: [react(), vanillaExtractPlugin()],
   base: 'https://jpcomputersrestaurantdemo.xyz/',
   server: {
-    port: 3000,
+    port: 10000,
     proxy: {
       '/api': {
         target: 'http://localhost:4000',
