@@ -9,7 +9,7 @@ export default defineConfig({
   server: {
     host: true,
     strictPort: true,
-    port: 10000,
+    port: 3000,
     resolve: {},
     proxy: {
       '/api': {
