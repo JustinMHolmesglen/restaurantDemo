@@ -5,7 +5,7 @@ import { vanillaExtractPlugin } from '@vanilla-extract/vite-plugin'
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react(), vanillaExtractPlugin()],
-  base: 'http://jpcomputersrestaurantdemo.xyz/',
+  base: 'http://restaurantappdemo:10000/',
   server: {
     host: true,
     strictPort: true,
