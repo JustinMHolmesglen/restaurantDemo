@@ -1,5 +1,5 @@
 {
-    "appEnv": "development",
+    "appEnv": "production",
     "appPrivateKey": "PRIVATE_KEY",
     "db": {
         "connectionString": "DB_CONNECTION_STRING"
