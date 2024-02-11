@@ -1,7 +1,0 @@
-{
-    "appEnv": "APP_ENV",
-    "appPrivateKey": "PRIVATE_KEY",
-    "db": {
-        "connectionString": "DB_CONNECTION_STRING"
-    }
-}
