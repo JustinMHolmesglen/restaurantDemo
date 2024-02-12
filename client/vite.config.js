@@ -12,7 +12,7 @@ export default defineConfig({
     resolve: {},
     proxy: {
       '/api': {
-        target: 'http://localhost:4000',
+        target: 'http://restaurantappdemo:3000/',
         changeOrigin: true,
         secure: false
       }
