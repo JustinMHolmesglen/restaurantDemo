@@ -14,7 +14,7 @@ const Home = () => {
           <Button href={"/review"} variant="dark">Review</Button>
         </div>
         <div className="row mb-3">
-          <div className="col-md-3"><img src="../../src/assets/Food-salmon-pic.jpg" alt="Food-gallery-1" /></div>
+          <div className="col-md-3"><img src="../src/assets/Food-salmon-pic.jpg" alt="Food-gallery-1" /></div>
           <div className="col-md-3"><img src="../../src/assets/Food-prawns-pic.jpg" alt="Food-gallery-2" /></div>
           <div className="col-md-3"><img src="../../src/assets/Food-rice.jpg" alt="Food-gallery-3" /></div>
           <div className="col-md-3"><img src="../../src/assets/seafood-soup.jpg" alt="Food-gallery-4" /></div>
