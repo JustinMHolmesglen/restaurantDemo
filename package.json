@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "npm run debug",
-    "build": "npm run build",
+    "build": "vite build",
+    "preview": "vite preview",
     "server": "nodemon --quiet server",
     "client": "npm start --prefix client",
     "dev": "concurrently \"npm run server\" \"npm run client\""
