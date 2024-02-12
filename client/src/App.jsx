@@ -30,7 +30,7 @@ import { ApolloClient, InMemoryCache, ApolloProvider } from "@apollo/client";
 
 // Create Apollo Client
 const client = new ApolloClient({
-  uri: "http://localhost:4000/",
+  uri: "http://10.210.153.173:3000/",
   cache: new InMemoryCache(),
 });
 
@@ -81,6 +81,8 @@ const App = () => {
     }
     return <Component {...rest} user={user} />;
   }
+
+  
 
   return (
     
