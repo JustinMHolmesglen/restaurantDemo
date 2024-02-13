@@ -17,7 +17,7 @@ import { RiShoppingCartFill } from "react-icons/ri";
     <Navbar className={styles.navbar} sticky="top" bg='black' variant='dark' expand="lg">
       <Container>
         <Navbar.Brand className={styles.brandLink} as={Link} to='/' >
-          <img className={styles.logo} src='../../src/assets/seafood-soup.jpg' alt="TasteOfAsia logo"/>
+          <img className={styles.logo} src='/seafood-soup.jpg' alt="TasteOfAsia logo"/>
           <div className={styles.logoTextBox}>
             <span className={styles.brand}>Taste of Asia</span>
             <span className={styles.brandSub}>The Foodie Store for Today</span>
