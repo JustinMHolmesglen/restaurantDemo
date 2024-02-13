@@ -112,9 +112,9 @@ function Footer(props) {
           <img src="../../src/assets/bg-footer.jpg" alt="Food-gallery-1" /></div>
           <div className="col-md-3"><h3 className="mb-4">Melbourne</h3><p>mon-thurs | 11.30am-3pm, 5pm-9.30pm </p><p> fri | 11.30-3pm, 5pm-11pm </p><p>sat | 11.30-3pm, 5pm-11pm</p><p>sun | 11.30-3pm, 5pm-11pm</p></div>
           <div className="col-md-3">
-              <div style={{display: "flex", justifyItems: "center"}}><img src="../../src/assets/f_logo.png" alt="social-link-1" style={{width: "15%"}} /><h4 className="m-auto">TasteOfAsia</h4></div>
+              <div style={{display: "flex", justifyItems: "center"}}><img src="/f_logo.png" alt="social-link-1" style={{width: "15%"}} /><h4 className="m-auto">TasteOfAsia</h4></div>
               <hr></hr>
-              <div style={{display: "flex", justifyItems: "center"}}><img src="../../src/assets/i_logo.png" alt="social-link-2" style={{width: "15%"}} /><h4 className="m-auto">TasteOfAsia</h4></div>
+              <div style={{display: "flex", justifyItems: "center"}}><img src="/i_logo.png" alt="social-link-2" style={{width: "15%"}} /><h4 className="m-auto">TasteOfAsia</h4></div>
               <hr></hr>
               <p className="mt-4"><FontAwesomeIcon icon="fa-solid fa-phone" />&nbsp;&nbsp;Tel: 0411 - X11 - 111</p>
               <p><FontAwesomeIcon icon="fa-solid fa-envelope" />&nbsp;&nbsp;Mail: info@TasteOfAsia</p>
