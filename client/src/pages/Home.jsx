@@ -25,6 +25,15 @@ const Home = () => {
           <div className="col-md-3"><img src="/Food-spicy-noodles-pic.jpg" alt="Food-gallery-3" /></div>
           <div className="col-md-3"><img src="/Food-sushi-pic.jpg" alt="Food-gallery-4" /></div>
         </div>
+         <div className="row mb-3">
+          <div className="col-md-12"><img src="/menu1.jpg" alt="Food-gallery-2" /></div>
+        </div>
+        <div className="row mb-3">
+          <div className="col-md-12"><img src="/menu2.jpg" alt="Food-gallery-1"/></div>
+        </div>
+        <div className="row mb-3">
+          <div className="col-md-12"><img src="/menu3.jpg" alt="Food-gallery-2" /></div>
+        </div>
         <div className="row mb-3">
           <div className="col-md-6"><img src="/spice_pic.jpg" alt="Food-gallery-2" /></div>
           <div className="col-md-6"><img src="/prawns_pic.jpg" alt="Food-gallery-1"/></div>
