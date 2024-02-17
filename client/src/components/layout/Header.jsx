@@ -20,7 +20,7 @@ import { RiShoppingCartFill } from "react-icons/ri";
           <img className={styles.logo} src='/seafood-soup.jpg' alt="TasteOfAsia logo"/>
           <div className={styles.logoTextBox}>
             <span className={styles.brand}>Taste of Asia</span>
-            <span className={styles.brandSub}>The Foodie Store for Today</span>
+            <span className={styles.brandSub}>The Restaurant for Today</span>
           </div>
           
         </Navbar.Brand>
