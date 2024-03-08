@@ -3,6 +3,7 @@
   --primary: #ffffff;
   --complementary: #000000;
   --brand: #059669;
+  --bs-gutter-x: 0rem !important;
 }
 
 .app {
@@ -185,4 +186,5 @@ footer {
       font-size: 22px;
       white-space: wrap !important;
     }
+    
   }
