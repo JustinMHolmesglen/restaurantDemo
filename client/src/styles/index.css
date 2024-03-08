@@ -36,16 +36,16 @@
     color: #333333;
     cursor: pointer;
   }
-  menuSpecials{
+  .menuSpecials{
     display:none;
   }
-  menu1{
+  .menu1{
     display:none;
   }
-    menu2{
+    .menu2{
     display:none;
   }
-    menu3{
+    .menu3{
     display:none;
   }
   
