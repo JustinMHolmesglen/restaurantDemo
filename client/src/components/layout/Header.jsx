@@ -92,6 +92,12 @@ import { RiShoppingCartFill } from "react-icons/ri";
               LOGIN
               
             </Link>
+
+            <Link to="http://localhost:3000/" className="nav-link background-hover px-3">
+              PORTFOLIO
+              
+            </Link>
+            
           </>
         )}
       </div>
