@@ -170,17 +170,17 @@ footer {
     font-size: 1.8rem;
   }
 
-  .col-md-12.menu1{
+  #root > div > div > div.container > div:nth-child(4) > div > img{
     display:none;
   }
-  .col-md-12.menu2{
+  #root > div > div > div.container > div:nth-child(5) > div > img{
     display:none;
   }
-  .col-md-12.menu3{
+  #root > div > div > div.container > div:nth-child(6) > div > img{
     display:none;
   }
 
-  .col-md-12.menuSpecials{
+  #root > div > div > div.container > div:nth-child(8) > div > img{
     display:none;
   
 }
