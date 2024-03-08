@@ -3,7 +3,7 @@
   --primary: #ffffff;
   --complementary: #000000;
   --brand: #059669;
-  --bs-gutter-x: 0rem !important;
+  --bs-gutter-x: 0;
 }
 
 .container-fluid{
