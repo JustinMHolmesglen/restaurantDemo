@@ -183,5 +183,6 @@ footer {
     
     .navbar-brand{
       font-size: 22px;
+      white-space: wrap !important;
     }
   }
