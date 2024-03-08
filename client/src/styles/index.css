@@ -167,6 +167,11 @@ footer {
   background: linear-gradient(to bottom, #a80000, #dc3545);
 }
 
+.container{
+  padding-left: 0;
+  padding-right: 0;
+}
+
   
 @media only screen and (max-width: 960px){
   #hero-section h1{
