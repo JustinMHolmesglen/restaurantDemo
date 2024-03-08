@@ -164,25 +164,12 @@ footer {
   
 @media only screen and (max-width: 960px){
   #hero-section h1{
-    font-size: 2em;
+    font-size: 1em;
   }
   #call-to-action h3{
-    font-size: 1.8rem;
+    font-size: .8rem;
   }
 
-  #root > div > div > div.container > div:nth-child(4) > div > img{
-    display:none;
-  }
-  #root > div > div > div.container > div:nth-child(5) > div > img{
-    display:none;
-  }
-  #root > div > div > div.container > div:nth-child(6) > div > img{
-    display:none;
-  }
-
-  #root > div > div > div.container > div:nth-child(8) > div > img{
-    display:none;
-  
-}
+ 
 }
   
