@@ -175,7 +175,9 @@ footer {
   padding-left: 0;
   padding-right: 0;
 }
-
+#root > div > div{
+  width: 100%;
+}
   
 @media only screen and (max-width: 760px){
   #hero-section h1{
