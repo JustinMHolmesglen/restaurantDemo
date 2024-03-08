@@ -3,7 +3,7 @@
   --primary: #ffffff;
   --complementary: #000000;
   --brand: #059669;
-  --bs-gutter-x: 0 !important;
+  --bs-gutter-x: 0rem !important;
 }
 
 .container-fluid{
@@ -51,7 +51,7 @@
 
 #hero-section {
   margin: 1rem auto;
-  padding: 2rem 1rem;
+  padding: 2rem 0;
   background-image: url('../../src/assets/bg.jpg');
   /* background-image: url('../../public/bg-dark.jpg');*/
   background-position: center center; 
@@ -81,7 +81,7 @@
 
 #call-to-action {
   margin: 1rem auto;
-  padding: 2rem 10rem;
+  padding: 2rem 0rem;
   background-image: url('../../src/assets/sushami.jpg');
   /* background-image: url('../../public/bg-dark.jpg');*/
   background-position: top center; 
