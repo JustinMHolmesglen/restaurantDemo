@@ -36,6 +36,19 @@
     color: #333333;
     cursor: pointer;
   }
+  menuSpecials{
+    display:none;
+  }
+  menu1{
+    display:none;
+  }
+    menu2{
+    display:none;
+  }
+    menu3{
+    display:none;
+  }
+  
 }
 
 #hero-section p {
