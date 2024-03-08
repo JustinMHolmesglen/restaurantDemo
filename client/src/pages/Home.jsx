@@ -12,7 +12,7 @@ const Home = () => {
         <div id="hero-section">
           <h1>An Asian Experience, Restaurant of the new Millenium</h1>
           <p>For traditional Asian cultured meals, tried the rest, now try the best!</p>
-          <Button href={"/review"} variant="dark">Review</Button>
+          <Button href={"#"} variant="dark">Review</Button>
         </div>
         <div className="row mb-3">
           <div className="col-md-3"><img src="/Food-salmon-pic.jpg" alt="Food-gallery-1" /></div>
@@ -45,7 +45,7 @@ const Home = () => {
         <div id="call-to-action" className="mb-3" style={{display: "flex", flexDirection: "column"}}>
           <h3 style={{color: "#fff", textAlign: "center"}}>With the greatest reviewed restaurant in Clayton</h3>
           <p style={{color: "#fff", textAlign: "center"}}>Why not add your review to our others, we know you enjoyed your food and we pride ourself on the quality of our food!</p>
-          <Button href={"/review"} style={{textAlign: "center", margin: "0 auto", display: "flex"}}variant="light">Review Now</Button>
+          <Button href={"#"} style={{textAlign: "center", margin: "0 auto", display: "flex"}}variant="light">Review Now</Button>
         </div>
        
       
