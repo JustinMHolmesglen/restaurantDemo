@@ -178,6 +178,6 @@ footer {
 
   }
   #hero-section > p, #hero-section > h1{
-      padding: 0px;
+      padding: 0px !important;
     }
   }
