@@ -37,7 +37,7 @@
     cursor: pointer;
   }
  
-  
+}
 
 #hero-section p {
   margin: 1.5rem 0;
@@ -170,6 +170,8 @@ footer {
     font-size: .8rem;
   }
 
+  .d-sm-none{
+    display: none;
+  }
  
 }
-  
