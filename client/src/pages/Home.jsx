@@ -3,7 +3,7 @@
 import { Fragment } from 'react';
 import Container from 'react-bootstrap/Container';
 import Button from 'react-bootstrap/Button';
-import Col from 'react-bootstrap';
+
 
 const Home = () => {
   return (
