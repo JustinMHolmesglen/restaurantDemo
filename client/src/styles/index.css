@@ -4,6 +4,7 @@
   --complementary: #000000;
   --brand: #059669;
   --bs-gutter-x: 0;
+  --bs-gutter-y: 2;
 }
 
 .container-fluid{
