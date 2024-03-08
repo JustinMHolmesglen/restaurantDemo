@@ -197,5 +197,9 @@ footer {
       font-size: 22px;
       white-space: wrap !important;
     }
+
+    #basic-navbar-nav > div > div > a > div{
+      font-size: 12px;
+    }
     
   }
