@@ -27,20 +27,20 @@ const Home = () => {
           <div className="col-md-3"><img src="/Food-sushi-pic.jpg" alt="Food-gallery-4" /></div>
         </div>
          <div className="row mb-3">
-          <div className="col-md-12 d-sm-none"><img src="/menu1.jpg" alt="Menu1" /></div>
+          <div className="col-md-12.d-sm-none"><img src="/menu1.jpg" alt="Menu1" /></div>
         </div>
         <div className="row mb-3">
-          <div className="col-md-12 d-sm-none"><img src="/menu2.jpg" alt="Menu2"/></div>
+          <div className="col-md-12.d-sm-none"><img src="/menu2.jpg" alt="Menu2"/></div>
         </div>
         <div className="row mb-3">
-          <div className="col-md-12 d-sm-none"><img src="/menu3.jpg" alt="Menu3" /></div>
+          <div className="col-md-12.d-sm-none"><img src="/menu3.jpg" alt="Menu3" /></div>
         </div>
         <div className="row mb-3">
           <div className="col-md-6"><img src="/spice_pic.jpg" alt="Food-gallery-2" /></div>
           <div className="col-md-6"><img src="/prawns_pic.jpg" alt="Food-gallery-1"/></div>
         </div>
          <div className="row mb-3">
-          <div className="col-md-12 d-sm-none"><img src="/menuSpecials.jpg" alt="Menu Specials" /></div>
+          <div className="col-md-12.d-sm-none"><img src="/menuSpecials.jpg" alt="Menu Specials" /></div>
         </div>
         <div id="call-to-action" className="mb-3" style={{display: "flex", flexDirection: "column"}}>
           <h3 style={{color: "#fff", textAlign: "center"}}>With the greatest reviewed restaurant in Clayton</h3>
