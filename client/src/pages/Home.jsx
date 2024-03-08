@@ -39,7 +39,7 @@ const Home = () => {
           <div className="col-md-6"><img src="/prawns_pic.jpg" alt="Food-gallery-1"/></div>
         </div>
          <div className="row mb-3">
-          <div className="col-md-12" menuSpecials><img src="/menuSpecials.jpg" alt="Menu Specials" /></div>
+          <div className="col-md-12 menuSpecials"><img src="/menuSpecials.jpg" alt="Menu Specials" /></div>
         </div>
         <div id="call-to-action" className="mb-3" style={{display: "flex", flexDirection: "column"}}>
           <h3 style={{color: "#fff", textAlign: "center"}}>With the greatest reviewed restaurant in Clayton</h3>
