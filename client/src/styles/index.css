@@ -180,4 +180,10 @@ footer {
   #hero-section{
     padding: 2rem 1rem !important;
     }
+    .container{
+      --bs-gutter-x: 0;
+    }
+    .navbar-brand{
+      font-size: 1rem;
+    }
   }
