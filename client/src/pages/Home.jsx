@@ -7,7 +7,7 @@ import Button from 'react-bootstrap/Button';
 
 const Home = () => {
   return (
-    <Fragment>
+    <Container-fluid>
       
         <div id="hero-section">
           <h1>An Asian Experience, Restaurant of the new Millenium</h1>
@@ -50,7 +50,7 @@ const Home = () => {
        
       
       
-    </Fragment>
+    </Container-fluid>
   )
 }
 
