@@ -8,7 +8,7 @@ import Button from 'react-bootstrap/Button';
 const Home = () => {
   return (
     <Fragment>
-      <Container>
+      
         <div id="hero-section">
           <h1>An Asian Experience, Restaurant of the new Millenium</h1>
           <p>For traditional Asian cultured meals, tried the rest, now try the best!</p>
@@ -48,7 +48,7 @@ const Home = () => {
           <Button href={"/review"} style={{textAlign: "center", margin: "0 auto", display: "flex"}}variant="light">Review Now</Button>
         </div>
        
-      </Container>
+      
       
     </Fragment>
   )
