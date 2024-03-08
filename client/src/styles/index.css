@@ -3,7 +3,7 @@
   --primary: #ffffff;
   --complementary: #000000;
   --brand: #059669;
-  --bs-gutter-x: 0rem !important;
+  --bs-gutter-x: 0 !important;
 }
 
 .app {
@@ -162,6 +162,7 @@ footer {
 .bg-4 {
   background: linear-gradient(to bottom, #a80000, #dc3545);
 }
+
   
 @media only screen and (max-width: 960px){
   #hero-section h1{
