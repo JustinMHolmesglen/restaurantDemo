@@ -8,6 +8,7 @@
 
 .container-fluid{
   padding: 0rem;
+  margin: 0rem;
 }
 
 .app {
@@ -203,7 +204,7 @@ footer {
     #basic-navbar-nav > div > div > a{
       font-size: 12px;
     }
-    .container, .container-fluid, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl{
-          --bs-gutter-x: 0rem; 
+    div.min-width.container{
+          --bs-gutter-x: 0rem !important; 
     }
   }
