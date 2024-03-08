@@ -173,5 +173,8 @@ footer {
   .d-sm-none{
     display: none;
   }
+
+  #call-to-action{
+    padding: 0;
  
 }
