@@ -15,7 +15,7 @@ import { RiShoppingCartFill } from "react-icons/ri";
 
   return (
     <Navbar className={styles.navbar} sticky="top" bg='black' variant='dark' expand="lg">
-      <Container>
+      
         <Navbar.Brand className={styles.brandLink} as={Link} to='/' >
           <img className={styles.logo} src='/seafood-soup.jpg' alt="TasteOfAsia logo"/>
           <div className={styles.logoTextBox}>
@@ -97,7 +97,7 @@ import { RiShoppingCartFill } from "react-icons/ri";
       </div>
     </Nav>
         </Navbar.Collapse>
-      </Container>
+      
     </Navbar>
   );
   }; 
