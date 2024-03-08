@@ -171,10 +171,10 @@ footer {
   }
 
   .d-sm-none{
-    display: none;
-  }
-
+    display: none !important;
+  } 
   #call-to-action{
     padding: 0;
- 
+
+  }
 }
