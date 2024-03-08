@@ -177,4 +177,7 @@ footer {
     padding: 0;
 
   }
-}
+  #hero-section > p, #hero-section > h1{
+      padding: 0px;
+    }
+  }
