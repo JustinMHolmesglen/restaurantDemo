@@ -36,20 +36,8 @@
     color: #333333;
     cursor: pointer;
   }
-  .menuSpecials{
-    display:none;
-  }
-  .menu1{
-    display:none;
-  }
-   #root > div > div > div.container > div:nth-child(5) > div{
-    display:none;
-  }
-    .menu3{
-    display:none;
-  }
+ 
   
-}
 
 #hero-section p {
   margin: 1.5rem 0;
@@ -181,5 +169,20 @@ footer {
   #call-to-action h3{
     font-size: 1.8rem;
   }
+
+  #root > div > div > div.container > div:nth-child(4) > div{
+    display:none;
+  }
+   #root > div > div > div.container > div:nth-child(5) > div{
+    display:none;
+  }
+    #root > div > div > div.container > div:nth-child(6) > div{
+    display:none;
+  }
+
+  #root > div > div > div.container > div:nth-child(8) > div > img{
+    display:none;
+  
+}
 }
   
