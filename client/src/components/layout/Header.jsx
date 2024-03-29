@@ -93,7 +93,7 @@ import { RiShoppingCartFill } from "react-icons/ri";
               
             </Link>
 
-            <Link to="http://localhost:3000/" className="nav-link background-hover px-3">
+            <Link to="https://portfolio-exemplar.onrender.com" className="nav-link background-hover px-3">
               PORTFOLIO
               
             </Link>
